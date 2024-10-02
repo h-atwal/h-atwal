@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am currently learning autonomous systems for discovery.
+I am looking to collaborate on machine learning projects for physical sciences. 
+Ask me about nanomaterials, membrane technology, chromatography, or radiopharmaceuticals.
+
 <!--
 **h-atwal/h-atwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 I’m currently learning autonomous systems for discovery.
